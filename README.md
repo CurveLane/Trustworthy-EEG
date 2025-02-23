@@ -24,3 +24,15 @@ These papers combine EEG-related tasks with trustworthy AI methods, including Do
 | **Security**          | **Adversarial Artifact Detection in EEG-Based Brain-Computer Interfaces**          | Investigates adversarial detection mechanisms for EEG BCIs, showing effectiveness against white-box and black-box attacks.     | -                                |
 | **Review Paper**      | **Adversarial Attacks and Defenses in Physiological Computing: A Systematic Review** | Provides a detailed review of adversarial attack strategies and defense mechanisms in physiological computing, with a focus on EEG systems. | -                                |
 
+---
+
+## Trustworthy Methods Overview
+
+| **Category**           | **Paper Title**                                                          | **Description**                                                                                              | **Attack Type / Defense**                | **Publication (Year)**         |
+|------------------------|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|------------------------------------------|--------------------------------|
+| **Adversarial Attack** | **Intriguing Properties of Neural Networks**                             | Investigates the vulnerability of neural networks to small adversarial perturbations using **L-BFGS optimization**. | **Adversarial Attack**                   | *ICLR (2014)*                   |
+| **Adversarial Attack** | **Towards Evaluating the Robustness of Neural Networks**                  | Proposes the **CW attack** method for generating imperceptible adversarial examples that mislead neural networks.   | **Adversarial Attack**                   | *IEEE Symposium on Security and Privacy (2017)* |
+| **Black-Box Attack**   | **Practical Black-Box Attacks against Machine Learning**                  | Demonstrates black-box adversarial attacks using **training sample augmentation** and transferability.             | **Black-Box Attack**                     | *ASIA CCS (2017)*               |
+| **Adversarial Attack / Defense** | **Towards Deep Learning Models Resistant to Adversarial Attacks** | Introduces **Projected Gradient Descent (PGD)**, a powerful iterative method to find adversarial examples by maximizing loss. | **Adversarial Attack / Defense**          | *ICLR (2018)*                   |
+| **Privacy Defense**    | **Unlearnable Examples: Making Personal Data Unexploitable**             | Proposes **error-minimizing perturbations** that make personal data unlearnable, preventing exploitation and ensuring privacy. | **Privacy Defense**                      | *ICLR (2021)*                   |
+
