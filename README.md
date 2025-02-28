@@ -4,7 +4,7 @@
 
 ### 1. EEG + Trustworthy Papers
 
-These papers combine EEG-related tasks with trustworthy AI methods, including Dongrui Wu's work and others. They are categorized by their function:
+These papers combine EEG-related tasks with trustworthy AI methods. They are categorized by their function:
 
 ---
 
